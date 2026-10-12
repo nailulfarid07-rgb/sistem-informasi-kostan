@@ -1,0 +1,10 @@
+{
+  "description": "Manage rental properties efficiently with tools for room, tenant, lease, and payment tracking designed for streamlined kost management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
